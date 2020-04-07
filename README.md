@@ -1,2 +1,2 @@
 # myWeb
-web with spring mvc
+web with spring mvc 。
